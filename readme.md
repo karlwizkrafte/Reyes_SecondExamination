@@ -4,7 +4,8 @@
 [![Maven](https://img.shields.io/badge/Maven-3.x-blue.svg)](https://maven.apache.org/)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](https://umindanao.edu.ph/)
 
-> lisod sabton pero wa nakoy mabuhat kay wa nay time 😔😔😔
+> [!NOTE]  
+> Editor's note: Hapit nga layo na unta, pero wa nakoy mabuhat kay wa nay time nalibog ko hahaha 😔😔😔
 
 ## 🔧 Prerequisites
 
