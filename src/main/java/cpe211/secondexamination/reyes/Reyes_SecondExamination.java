@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 // main
-public class Reyes_FirstExamination {
+public class Reyes_SecondExamination {
     public static void main( String[] args ) throws IOException {
 
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
